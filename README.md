@@ -3,10 +3,13 @@
 ## Introduction
 This is a simple Animation task like animation rotation ,carousel and fade in.
 ### Fade in animation
+![Screenshot 2024-05-13 131007](https://github.com/Upendrapal0607/gurucool-assignment-project/assets/112810287/f62e853e-b2f3-4358-b90f-7771e3d11e3e)
 
 ### Button click Rotation
+![Screenshot 2024-05-13 131040](https://github.com/Upendrapal0607/gurucool-assignment-project/assets/112810287/dadf6f58-0d63-4f57-ae9e-6daab96d956c)
 
 ### Slide animation
+![Screenshot 2024-05-13 131024](https://github.com/Upendrapal0607/gurucool-assignment-project/assets/112810287/29ab1711-7a82-47c8-961a-c30de7cd7d55)
 
 ## Project Type
 React animation project.
